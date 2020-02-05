@@ -60,7 +60,12 @@ body {
    color: white;
    text-align: center;
  }
- 
+ .trailer {
+  display: block;
+  margin: 0 auto;
+width: 70%;
+align: center;
+ }
  
  /* Example: Change color of play button */
  .plyr__control--overlaid {
