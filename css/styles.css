@@ -25,13 +25,18 @@ body {
  blockquote {
    font-family: gill sans;
    color: white;
-   text-align: left;
+   text-align: center;
+   display: block;
+  margin: 0 auto;
  }
  
  p {
    font-family: gill sans;
    color: white;
-   text-align: left;
+   text-align: center;
+   display: block;
+  margin: 0 auto;
+   width: 75%;
  }
  
  img{
