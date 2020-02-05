@@ -13,6 +13,7 @@ body {
    font-family: trattatello;
    color: #b30000;
    text-align: center;
+   font-size: 45px;
   text-shadow: 0px 1px 2px;
  }
  
@@ -26,15 +27,14 @@ body {
    font-family: gill sans;
    color: white;
    text-align: center;
-   display: block;
   margin: 0 auto;
+  font-size: 18px;
  }
  
  p {
    font-family: gill sans;
    color: white;
    text-align: center;
-   display: block;
   margin: 0 auto;
    width: 75%;
  }
